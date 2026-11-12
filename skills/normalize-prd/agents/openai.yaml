@@ -1,0 +1,4 @@
+interface:
+  display_name: "规范化 PRD"
+  short_description: "从简略产品材料提取横向需求，澄清歧义并维护可追溯的规范化 PRD"
+  default_prompt: "使用 $normalize-prd 将指定原始材料整理为规范化 PRD，保留来源并区分已明确要求和待澄清问题。"

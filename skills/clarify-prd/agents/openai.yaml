@@ -1,0 +1,4 @@
+interface:
+  display_name: "PRD 需求澄清"
+  short_description: "提取简略 PRD 的明确要求，追踪原文依据、规则冲突与待确认问题"
+  default_prompt: "使用 $clarify-prd 分析原始 PRD，生成一份供后续规格设计使用的需求澄清记录。"
