@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kotlin 代码分析"
+  short_description: "结合业务路径分析 Kotlin 与 Java 互操作"
+  default_prompt: "Use $analyzing-kotlin-code to analyze this Kotlin file, its execution flow, and the Kotlin concepts used."

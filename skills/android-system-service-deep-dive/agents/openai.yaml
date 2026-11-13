@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android System Service Deep Dive"
+  short_description: "Source-grounded AOSP service architecture analysis"
+  default_prompt: "Use $android-system-service-deep-dive to analyze AccessibilityManagerService from the current AOSP checkout."

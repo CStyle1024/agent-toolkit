@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android SELinux 未生效排查"
+  short_description: "定位新增 SELinux 配置在运行策略、交付镜像或构建引用中的缺失环节"
+  default_prompt: "使用 $android-selinux-policy-debug 排查新增 Android SELinux 配置未生效的问题，优先利用现有设备和交付产物，只报告有证据支持的结论。"

@@ -18,8 +18,13 @@ skill 内的 `references/`、`scripts/` 等资源与 `SKILL.md` 一起维护和�
 
 | 类型 | 名称 | 用途 | 路径 |
 | --- | --- | --- | --- |
-| Skill | codebase-analysis | 分析代码库或模块并生成技术文档 | [skills/codebase-analysis](skills/codebase-analysis/SKILL.md) |
+| Skill | analyzing-kotlin-code | 沿业务与执行路径分析 Kotlin 代码，讲解影响实现的 Kotlin 特性及 Java/JVM 互操作 | [skills/analyzing-kotlin-code](skills/analyzing-kotlin-code/SKILL.md) |
+| Skill | android-framework-research | 基于 Framework 源码恢复模块架构、组件关系、调用流程和设计思想 | [skills/android-framework-research](skills/android-framework-research/SKILL.md) |
+| Skill | android-selinux-policy-debug | 排查 SELinux 新增类型、服务映射或 allow 规则在刷机后未生效的问题 | [skills/android-selinux-policy-debug](skills/android-selinux-policy-debug/SKILL.md) |
+| Skill | android-system-service-deep-dive | 基于源码分析 AOSP System Service 的生命周期、Binder 边界、调用链与安全模型 | [skills/android-system-service-deep-dive](skills/android-system-service-deep-dive/SKILL.md) |
 | Skill | clarify-prd | 提取 PRD 要求、定位歧义并维护单文档澄清记录 | [skills/clarify-prd](skills/clarify-prd/SKILL.md) |
+| Skill | codebase-analysis | 分析代码库或模块并生成技术文档 | [skills/codebase-analysis](skills/codebase-analysis/SKILL.md) |
+| Skill | git-commit | 按任务范围创建本地 Git 提交，保留无关修改并核实提交结果 | [skills/git-commit](skills/git-commit/SKILL.md) |
 | Skill | normalize-prd | 将原始材料整理为规范化 PRD，并将澄清结论回写需求及验收预期 | [skills/normalize-prd](skills/normalize-prd/SKILL.md) |
 | Skill | rigorous-tech-writing | 规范技术文章、调研报告和设计文档的表达与证据 | [skills/rigorous-tech-writing](skills/rigorous-tech-writing/SKILL.md) |
 
