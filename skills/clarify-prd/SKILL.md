@@ -14,6 +14,7 @@ description: "Use when a supplied PRD or product requirement is terse, ambiguous
 - 关联材料在可用工具和授权范围内读取；读不到则注明“未读取/读取失败”及影响，继续处理独立内容。用户限制本地材料时遵从限制。
 - 用 [assets/clarification-template.md](assets/clarification-template.md) 生成**单文档**。用户未指定位置时，沿用项目文档目录，否则写入 `docs/requirements/<主题>-clarification.md`。保留原始材料，不直接改写原 PRD。
 - Android/车机场景另读 [references/android-checklist.md](references/android-checklist.md)；其他领域不用加载它。
+- 需要参考部分答复合并、保留冲突历史的写法时，可查看 [references/clarify-prd-update/](references/clarify-prd-update/) 中的初始记录与更新记录样例。
 
 ## 分析与成文
 
